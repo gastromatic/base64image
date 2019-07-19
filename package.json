@@ -1,0 +1,21 @@
+{
+  "name": "@gastromatic/base64image",
+  "version": "1.0.0",
+  "description": "Base64Image plugin for CKEditor 4. Based on https://github.com/nmmf/base64image",
+  "keywords": ["base64", "image plugin", "ckeditor"],
+  "license": "MIT",
+  "repository": "github:gastromatic/base64image",
+  "author": "nmmf (https://github.com/nmmf)",
+  "publishConfig": {
+    "license": "MPL",
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "files": [
+    "dialogs",
+    "icons",
+    "lang",
+    "LICENSE.md",
+    "plugin.js",
+    "README.md"
+  ]
+}
